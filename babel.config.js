@@ -4,7 +4,7 @@ module.exports = {
     [
       '@nutui/babel-plugin-separate-import',
       {
-        style: 'css',
+        style: 'scss',
       },
     ],
   ],
